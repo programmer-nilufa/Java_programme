@@ -14,5 +14,7 @@ public class Reverse_while {
             num = num / 10;
         }
         System.out.println("The reverse number is: " + rev);
+
+        sc.close();
     }
 }
